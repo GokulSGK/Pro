@@ -39,7 +39,11 @@ public class Avg {
 	      {
 	        System.out.print(second[l]+" ");
 
-	}}
+	}
+	     System.out.print("\npossible");
+	    }
+		else
+			System.out.println("not possible");
 	}}
 
 
